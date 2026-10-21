@@ -1,0 +1,8 @@
+[
+  "tests/test_contract.py::TestContract::test_example_request",
+  "tests/test_contract.py::TestContract::test_example_response",
+  "tests/test_contract.py::TestContract::test_reject_bad_sum",
+  "tests/test_contract.py::TestContract::test_reject_future_row",
+  "tests/test_contract.py::TestContract::test_reject_nan",
+  "tests/test_contract.py::TestContract::test_reject_short_request"
+]
